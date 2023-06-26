@@ -16,4 +16,8 @@ cd ..(/..)
 ```
 In a more advanced setting, this command moves to the upper directories
 
-   
+**2) Read file**
+```
+sudo gedit <file>
+```
+This command is used to read the files in a better manner, no reading from terminal
