@@ -16,8 +16,18 @@ cd ..(/..)
 ```
 In a more advanced setting, this command moves to the upper directories
 
-**2) Read file**
+**2) Read and edit file**
 ```
 sudo gedit <file>
+sudo nano <file>
 ```
 This command is used to read the files in a better manner, no reading from terminal
+**3) Network related commands**
+```
+hostname
+```
+Print hostname of the device it is holding
+```
+ifconfig
+```
+Display full network configuration of the device
