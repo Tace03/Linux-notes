@@ -31,3 +31,7 @@ Print hostname of the device it is holding
 ifconfig
 ```
 Display full network configuration of the device
+```sudo ifup <target interface>```
+Build up the interface targeted of the device
+```sudo ifdown <target interface>```
+Turn off the targeted network interface
